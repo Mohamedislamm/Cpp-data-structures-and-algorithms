@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1665431136 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665432475 f:\programming ii\cs213-2022-2023\examples\xo_oop\include\xo_classes.hpp
+
+1665488288 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_app.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665431452 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665481131 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_gamemanager.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:f:\programming ii\cs213-2022-2023\examples\xo_oop_wrandom\src\xo_app.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504814 f:\programming ii\cs213-2022-2023\examples\xo_oop_wrandom\include\xo_classes.hpp
+
+1665504019 source:f:\programming ii\cs213-2022-2023\examples\xo_oop_wrandom\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:f:\programming ii\cs213-2022-2023\examples\xo_oop_wrandom\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665504940 source:f:\programming ii\cs213-2022-2023\examples\xo_oop_wrandom\src\xo_gamemanager.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1701378389 f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\include\xo_classes.hpp
+
+1665504019 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665504610 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\xo_randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1701379473 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\xo_app.cpp
+	<iostream>
+	"../include/BoardGame_Classes.hpp"
+
+1701403330 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\gamemanager.cpp
+	<iostream>
+	"../include/BoardGame_Classes.hpp"
+
+1701417587 f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\include\boardgame_classes.hpp
+
+1701379481 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/BoardGame_Classes.hpp"
+
+1701381948 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\x_o_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/BoardGame_Classes.hpp"
+
+1701417548 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/BoardGame_Classes.hpp"
+
+1701403139 source:f:\programming ii\cs213-2023-2024\assignments\cs213-2023-2024-assignment3-v1.0\xo_oop_wrandom\src\x_o_app.cpp
+	<iostream>
+	"../include/BoardGame_Classes.hpp"
+
