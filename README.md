@@ -1,17 +1,19 @@
-# Data Structures & Algorithms Repository
+# C++ Data Structures and Algorithms
 
-This directory contains implementations, projects, and code samples related to:
+C++ implementations and exercises focused on fundamental data structures, algorithm design, and problem solving.
 
-- **Data Structures**
-- **Object-Oriented Programming (OOP)**
-- **Structured Programming**
-- **Algorithm Analysis and Design**
+## Included Topics
+- Singly and doubly linked lists
+- Sorting algorithms
+- Scheduling algorithms
+- Core C++ problem solving
+- Algorithm analysis and implementation practice
 
-## 📁 Contents
+## Skills Demonstrated
+C++ · Data Structures · Algorithms · Object-Oriented Programming · Problem Solving
 
-- Core data structure implementations (Linked Lists, Trees, Stacks, Queues, etc.)
-- Algorithm solutions and problem-solving approaches
-- OOP-based projects demonstrating software design principles
-- Structured programming examples and exercises
+## Structure
+Source files and project folders are organised by topic. Larger projects have their own directory.
 
-
+## Purpose
+This repository documents my foundation in writing efficient, maintainable C++ code and understanding the trade-offs behind common data structures and algorithms.
